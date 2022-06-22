@@ -13,3 +13,4 @@
 | Sun 6/12/2022  | Discussed project idea, reviewed data |
 | Tue 6/14/2022  | Submitted final proposal, brainstormed questions and visuals, cleaned data  |
 | Thu 6/16/2022  | Brainstomed visuals, cleaned data |
+| Tue 6/21/2022  | Machine Learning Model |
